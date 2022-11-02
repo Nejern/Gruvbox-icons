@@ -1,6 +1,23 @@
-<svg height="16">
-    <g fill="#fbf1c7">
-        <path d="M3.969.803a.264.264 0 0 0-.265-.265H.53a.264.264 0 0 0-.264.265v.264H3.97z"/>
-        <path d="M.265 3.449c0 .146.118.264.264.264h3.175a.264.264 0 0 0 .265-.264V.803H.265z" opacity=".5"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="13.721519" viewBox="0 0 16 13.721519">
+<defs>
+<filter id="filter-remove-color" x="0%" y="0%" width="100%" height="100%">
+<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" />
+</filter>
+<mask id="mask-0">
+<g filter="url(#filter-remove-color)">
+<rect x="-1.6" y="-1.372152" width="19.2" height="16.465823" fill="rgb(0%, 0%, 0%)" fill-opacity="0.5"/>
+</g>
+</mask>
+<clipPath id="clip-0">
+<rect x="0" y="0" width="16" height="14"/>
+</clipPath>
+<g id="source-9" clip-path="url(#clip-0)">
+<path fill-rule="nonzero" fill="rgb(98.431373%, 94.509804%, 78.039217%)" fill-opacity="1" d="M 2.558594 11.832031 C 2.558594 12.332031 2.960938 12.738281 3.464844 12.738281 L 14.355469 12.738281 C 14.59375 12.738281 14.828125 12.644531 14.996094 12.472656 C 15.167969 12.304688 15.261719 12.070312 15.261719 11.832031 L 15.261719 2.753906 L 2.558594 2.753906 Z M 2.558594 11.832031 "/>
+</g>
+</defs>
+<path fill-rule="nonzero" fill="rgb(98.431373%, 94.509804%, 78.039217%)" fill-opacity="1" d="M 15.261719 2.753906 C 15.265625 2.511719 15.167969 2.28125 15 2.109375 C 14.828125 1.941406 14.597656 1.84375 14.355469 1.84375 L 3.464844 1.84375 C 3.226562 1.84375 2.996094 1.941406 2.824219 2.113281 C 2.65625 2.28125 2.558594 2.515625 2.5625 2.753906 L 2.5625 3.660156 L 15.265625 3.660156 Z M 15.261719 2.753906 "/>
+<g mask="url(#mask-0)">
+<use xlink:href="#source-9"/>
+</g>
 </svg>
