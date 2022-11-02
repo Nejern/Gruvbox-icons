@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+<defs>
+<linearGradient id="linear-pattern-0" gradientUnits="userSpaceOnUse" x1="7.97" y1="1.991" x2="1.994" y2="13.942" gradientTransform="matrix(0.6875, 0, 0, 0.6875, 2.75, 4)">
+<stop offset="0" stop-color="rgb(2.352941%, 40.000001%, 47.058824%)" stop-opacity="1"/>
+<stop offset="1" stop-color="rgb(28.235295%, 72.549021%, 78.039217%)" stop-opacity="1"/>
+</linearGradient>
+</defs>
+<path fill="none" stroke-width="1.000068" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(48.235294%, 43.529412%, 39.215687%)" stroke-opacity="1" stroke-miterlimit="4" d="M 6.5 2.5 L 5.5 3.5 L 5.5 29.5 L 6.5 30.5 L 26.5 30.5 L 27.5 29.5 L 27.5 10.5 L 19.5 2.5 Z M 6.5 2.5 " transform="matrix(0.5, 0, 0, 0.5, 0, 0)"/>
+<path fill="none" stroke-width="1.000068" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(48.235294%, 43.529412%, 39.215687%)" stroke-opacity="1" stroke-miterlimit="4" d="M 19.5 2.5 L 27.5 10.5 L 20.5 10.5 L 19.5 9.5 Z M 19.5 2.5 " transform="matrix(0.5, 0, 0, 0.5, 0, 0)"/>
+<path fill-rule="evenodd" fill="rgb(98.039216%, 28.627452%, 20.392157%)" fill-opacity="1" d="M 8.226562 5.367188 L 8.832031 12.210938 L 12.339844 13.585938 Z M 8.226562 5.367188 "/>
+<path fill-rule="evenodd" fill="url(#linear-pattern-0)" d="M 8.226562 5.367188 L 4.121094 13.585938 L 8.597656 9.546875 Z M 8.226562 5.367188 "/>
+<path fill-rule="evenodd" fill="rgb(71.764708%, 73.333335%, 14.509805%)" fill-opacity="1" d="M 6.613281 11.335938 L 4.121094 13.585938 L 12.339844 13.585938 Z M 4.128906 13.570312 L 4.113281 13.585938 L 4.121094 13.585938 Z M 4.128906 13.570312 "/>
+</svg>
