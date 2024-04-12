@@ -2,7 +2,7 @@
 
 Name=Gruvbox
 
-Inherits=Papirus,breeze,Numix
+Inherits=Adwaita,Papirus,breeze,Numix
 
 Example=directory-x-normal
 
